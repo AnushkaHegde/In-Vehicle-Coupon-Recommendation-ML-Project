@@ -6,3 +6,4 @@ Initalized by the following people:
 
 # Note for July 11
 - Git: go to the time 32:45, [git branching]{https://www.youtube.com/watch?v=RGOj5yH7evk&t=1549s} to see collarative details. 
+- Data Preprocessing
