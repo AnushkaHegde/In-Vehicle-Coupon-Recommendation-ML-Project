@@ -17,4 +17,7 @@ Initalized by the following people:
 - Explortory Data Analysis
   - Coupon acception vs. reject Value modfication
   - Extract insights on the relationship between feature and target
+  - Drop some features if we can
+  - Tranform sub-catergory for further algorithms
   - Hemant is here
+  
