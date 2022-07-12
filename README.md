@@ -17,3 +17,4 @@ Initalized by the following people:
 - Explortory Data Analysis
   - Coupon acception vs. reject Value modfication
   - Extract insights on the relationship between feature and target
+  - Hemant is here
