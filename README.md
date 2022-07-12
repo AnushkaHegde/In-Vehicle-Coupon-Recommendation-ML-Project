@@ -7,7 +7,7 @@ This is a machine learning course project, In-vehicle coupon recommendation. The
 
 Initalized by the following people:
 - Anushaka Hedge
-- Krishina Hemant
+- Krishna Hemant
 - Yanming Liu
 
 # Tasks & Deadlines
