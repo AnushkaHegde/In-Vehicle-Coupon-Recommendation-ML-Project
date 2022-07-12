@@ -15,3 +15,5 @@ Initalized by the following people:
 - Git Familarity: go to the time 32:45, [git branching](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1549s) to see collarative details. 
 - Data Preprocessing
 - Explortory Data Analysis
+-- Coupon acception vs. reject Value modfication
+-- Extract insights on the relationship between feature and target
