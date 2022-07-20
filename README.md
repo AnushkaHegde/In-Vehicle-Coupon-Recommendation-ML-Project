@@ -10,14 +10,26 @@ Initalized by the following people:
 - Krishna Hemant
 - Yanming Liu
 
-# Tasks & Deadlines
+# Tasks & Deadlines 
 :triangular_flag_on_post: By July 13, 2022
-- Git Familarity: go to the time 32:45, [git branching](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1549s) to see collarative details. 
-- Data Preprocessing
-- Explortory Data Analysis
-  - Coupon acception vs. reject Value modfication
-  - Extract insights on the relationship between feature and target
-  - Drop some features if we can
-  - Tranform sub-catergory for further algorithms
-  - Hemant is here
+- Git Familarity: go to the time 32:45, [git branching](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1549s) to see collarative details. &#10004;
+- Data Preprocessing &#10004;
+- Explortory Data Analysis &#10004;
+  - Coupon acception vs. reject Value modfication :x:
+  - Extract insights on the relationship between features and target :x:
+  - Feature selection/ Drop some features if we can :x:
+  - Feature encoding/ Tranform sub-catergory for further algorithms :x:
   
+:triangular_flag_on_post: By July 24, 2022 
+- Feature Engineering
+  - Finish the remaining work from last week, refer to [1](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/), [2](https://medium.com/geekculture/feature-engineering-for-categorical-data-a77a04b3308), [3](https://dvboi.medium.com/coupon-usage-prediction-on-in-vehicle-recommendation-systems-a-ml-classification-case-study-ea37427c072f)
+  - Encode catergorical feature using various ways for further comparisons on same algorithm
+- Try Models with sklearn package for a glimpse of classification
+  - Logistic Regression
+  - NN
+  - Support Vector Machine
+  - Deep Neural Network
+  - **[Collabrative Filtering](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)** 
+- Determine performance metrics, comparison, and why 
+
+Try potential models with performance metrics under different catergorical data coding styles from existing package.
