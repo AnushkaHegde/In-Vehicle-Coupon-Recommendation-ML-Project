@@ -29,9 +29,9 @@ Initalized by the following people:
   - NN
   - Support Vector Machine
   - Deep Neural Network
-  - **[Collabrative Filtering](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?
+  - Decision Tree, Random Forest
+  - **[Collabrative Filtering](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)**
   - Clustering
-specialization=machine-learning-introduction)** 
 - Determine performance metrics, comparison, and why 
 
 Try potential models with performance metrics under different catergorical data coding styles from existing package.
