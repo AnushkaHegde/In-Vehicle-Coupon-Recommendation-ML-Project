@@ -39,5 +39,10 @@ Initalized by the following people:
   - **[Collabrative Filtering](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)**
   - Clustering
 - Determine performance metrics, comparison, and why 
-
+  - Classification accuracy
+  - F-score
+  - ROC 
+  - Original data vs. cluster data color-labeled by target for clustering
+    - to see if they correponds well/ algorithms work or not
+    - compare the features of these two potential clusters with the insights in EDA. 
 Try potential models with performance metrics under different catergorical data coding styles from existing package.
