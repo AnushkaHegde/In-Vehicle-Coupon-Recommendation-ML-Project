@@ -54,3 +54,4 @@ Try potential models with performance metrics under different catergorical data 
 2. Do we need to do normalization or standardization?
 3. Can the OridinalEncoder automatically detect the intrinsic order of the varible and assign corresponding values to it?
 
+Based on the understanding of those questions, several trails can be done. 
