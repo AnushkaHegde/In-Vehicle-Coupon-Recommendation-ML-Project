@@ -1,6 +1,7 @@
 # Table of contents
 - [Summary](#summary)
 - [Project Management](#tasks--deadlines)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 # Summary
 This is a machine learning course project, In-vehicle coupon recommendation. The idea is to 1) predict if a customer will accept the coupon or not under learning algorithms from the scratch, 2) and find patterns between the predictors and the target variable. This can be as reference for companies to deliver coupons to potential customers so as to reduce the advertisement cost.
@@ -46,3 +47,10 @@ Initalized by the following people:
     - to see if they correponds well/ algorithms work or not
     - compare the features of these two potential clusters with the insights in EDA. 
 Try potential models with performance metrics under different catergorical data coding styles from existing package.
+
+# Frequently Asked Questions
+0. What encoding style is the best?
+1. Is it possible for we encode in different ways for the mixture of nomimal and ordinal categorical data? 
+2. Do we need to do normalization or standardization?
+3. Can the OridinalEncoder automatically detect the intrinsic order of the varible and assign corresponding values to it?
+
