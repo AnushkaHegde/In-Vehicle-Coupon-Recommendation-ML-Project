@@ -13,13 +13,13 @@ Initalized by the following people:
 
 # Tasks & Deadlines 
 :triangular_flag_on_post: By July 13, 2022
-- Git Familarity: go to the time 32:45, [git branching](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1549s) to see collarative details. &#10004;
+- Git Familarity: go to the time 32:45, [git branching](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1549s) to see collarative details. 
 - Data Preprocessing &#10004;
 - Explortory Data Analysis &#10004;
-  - Coupon acception vs. reject Value modfication :x:
-  - Extract insights on the relationship between features and target :x:
-  - Feature selection/ Drop some features if we can :x:
-  - Feature encoding/ Tranform sub-catergory for further algorithms :x:
+  - Coupon acception vs. reject Value modfication 
+  - Extract insights on the relationship between features and target 
+  - Feature selection/ Drop some features if we can 
+  - Feature encoding/ Tranform sub-catergory for further algorithms
   
 :triangular_flag_on_post: By July 24, 2022 
 - Feature Engineering / Finish the remaining work from last week
