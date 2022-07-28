@@ -30,6 +30,7 @@ Initalized by the following people:
     - Ordinal encoding
     - Embedding encoding as a strengthness combination for the above two methods
     - Frequency & target enecoding 
+    - CatBoost encoder 
   - Reference: [1](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/), [2](https://medium.com/geekculture/feature-engineering-for-categorical-data-a77a04b3308), [3](https://dvboi.medium.com/coupon-usage-prediction-on-in-vehicle-recommendation-systems-a-ml-classification-case-study-ea37427c072f), [4](https://machinelearningmastery.com/autoencoder-for-classification/#:~:text=Autoencoder%20is%20a%20type%20of,and%20a%20decoder%20sub%2Dmodels)
 - Try Models with sklearn package for a glimpse of classification
   - Logistic Regression
@@ -44,9 +45,23 @@ Initalized by the following people:
   - F-score
   - ROC 
   - Original data vs. cluster data color-labeled by target for clustering
-    - to see if they correponds well/ algorithms work or not
-    - compare the features of these two potential clusters with the insights in EDA. 
+    - To see if they correponds well/ algorithms work or not
+    - Compare the features of these two potential clusters with the insights in EDA. 
 Try potential models with performance metrics under different catergorical data coding styles from existing package.
+
+
+:triangular_flag_on_post: By August 1, 2022
+- Combine the encoding efforts with teamates, discuss how can do in a more reasonable way
+- Split manunal coding task into 3 parts to corresponding people
+- Keep in touch and help with problem solving during the time 
+- Discuss the acheivement this stage and merge if work, otherwise, improve
+
+:triangular_flag_on_post: By August 5, 2022
+- Draft the report
+- Tidy code in jupyter notebook for preparation of uploading to github
+- Design slides for coming prensentation on August 10
+
+Improve all the time. 
 
 # Frequently Asked Questions
 0. What encoding style is the best?
