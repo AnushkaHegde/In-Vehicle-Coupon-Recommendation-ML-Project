@@ -60,6 +60,17 @@ Try potential models with performance metrics under different catergorical data 
 - Draft the report
 - Tidy code in jupyter notebook for preparation of uploading to github
 - Design slides for coming prensentation on August 10
+- Details
+  - Adjust the values for coupon acception or rejection in section 2.1  
+  - Insights for section 2.3
+  - Add autoencoder and catbooster part to section 3.2 
+  - Logistic model implementation  -- Hemant
+  - Hard & soft margin model implementation   -- Yan & Anushka
+  - Naive bayes implementation    -- Anushka
+  - Presentation graph for each part  -- We may discuss 
+  - Write down the insights for each part and link word between sections   -- Yan draft first, then you can improve
+  - Adjust the order number and correspoding hyperlinks for table of contents 
+If you have further improvment ideas, just write down here. 
 
 Improve all the time. 
 
