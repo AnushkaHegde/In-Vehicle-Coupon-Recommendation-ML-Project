@@ -31,7 +31,11 @@ Initalized by the following people:
     - Embedding encoding as a strengthness combination for the above two methods
     - Frequency & target enecoding 
     - CatBoost encoder 
+<<<<<<< Updated upstream
+  - Reference: [1](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/), [2](https://medium.com/geekculture/feature-engineering-for-categorical-data-a77a04b3308), [3](https://dvboi.medium.com/coupon-usage-prediction-on-in-vehicle-recommendation-systems-a-ml-classification-case-study-ea37427c072f), [4](https://machinelearningmastery.com/autoencoder-for-classification/#:~:text=Autoencoder%20is%20a%20type%20of,and%20a%20decoder%20sub%2Dmodels), [5](https://neptune.ai/blog/how-to-compare-machine-learning-models-and-algorithms), [6](https://github.com/pythonprofilers/memory_profiler)
+=======
   - Reference: [1](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/), [2](https://medium.com/geekculture/feature-engineering-for-categorical-data-a77a04b3308), [3](https://dvboi.medium.com/coupon-usage-prediction-on-in-vehicle-recommendation-systems-a-ml-classification-case-study-ea37427c072f), [4](https://machinelearningmastery.com/autoencoder-for-classification/#:~:text=Autoencoder%20is%20a%20type%20of,and%20a%20decoder%20sub%2Dmodels)
+>>>>>>> Stashed changes
 - Try Models with sklearn package for a glimpse of classification
   - Logistic Regression
   - NN
