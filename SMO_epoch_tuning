@@ -1,0 +1,4 @@
+Learning rate,Kernel type,No. of Iterations,Validation Accuracy
+100,linear,5,0.6655
+300,linear,5,0.6693
+500,linear,5,0.6685
